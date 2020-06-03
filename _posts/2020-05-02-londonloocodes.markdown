@@ -4,7 +4,7 @@ title:  "London Loo Codes"
 date:   2020-05-02 12:00:00 +0000
 categories: projects
 ---
-[Live Project Link](https://londonloo.co.uk) | 
+[Live Project Link](https://loocode.co.uk) | 
 [Github Repo](https://github.com/gokhj/LondonLooCodes)
 
 Inspired by this [Twitter Account](https://twitter.com/ldnloocodes), I decided to develop something helpful for others. Initially, I used their [Google Spreadsheet Data](https://docs.google.com/spreadsheets/d/1NZc0IPV9SV_Wy9xoDckHbVDgJyeW2Str231Uz_e0Mg4/edit#gid=0), and converted that into JSON (well, in my case BSON) fields.
