@@ -3,7 +3,7 @@ layout: post
 title:  "A Search Engine for Netflix/Other Streaming Services: Fliks.xyz"
 date:   2020-01-17 12:00:00 +0100
 categories: projects
-tags: projects
+tags: projects python flask webapp
 ---
 [Live Project Link](https://www.fliks.xyz/) |
 [GitHub Repo](https://github.com/gokhj/Fliks.XYZ)

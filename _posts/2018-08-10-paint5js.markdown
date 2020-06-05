@@ -3,7 +3,7 @@ layout: post
 title:  "Paint-like web app built with p5.js"
 date:   2018-08-10 12:00:00 +0000
 categories: projects
-tags: projects
+tags: projects javascript processing p5js
 ---
 [Live Project Link](https://paint5.netlify.app/) |
 [GitHub Repo](https://github.com/gokhj/paint5js)

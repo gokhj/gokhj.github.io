@@ -3,7 +3,7 @@ layout: post
 title:  "Implementing a Spellchecker on Java"
 date:   2019-01-19 12:00:00 +0000
 categories: projects
-tags: projects
+tags: projects java
 ---
 
 [GitHub Repo](https://github.com/gokhj/Java-Spellchecker)
