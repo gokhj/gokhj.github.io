@@ -3,6 +3,7 @@ layout: post
 title:  "London Loo Codes"
 date:   2020-05-02 12:00:00 +0000
 categories: projects
+tags: projects
 ---
 [Live Project Link](https://loocode.co.uk) | 
 [Github Repo](https://github.com/gokhj/LondonLooCodes)
