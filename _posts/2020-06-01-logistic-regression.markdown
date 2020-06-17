@@ -260,7 +260,7 @@ model_w_high_rate.plot_loss_function(model_w_high_rate.costs)
 ```
 
 
-![png](/assets/logistic_regression/output_9_1.png/output_12_0.png)
+![png](/assets/logistic_regression/output_12_0.png)
 
 
 **Finally**

@@ -96,8 +96,3 @@ Here is the proof; all stories are downloaded to my phone and available for offl
 Since it is a working product at the moment, the API opens so many possibilities to work on. I can create a mail list and send the top stories to people who have registered; I can generate keyword notifications so people also can receive stories on tailored keywords. These are the ideas I thought about whilst I was writing this post, and I am sure many more features can be implemented. However, this is the end for me. Overall, I think it was a useful project, and I will be using it daily.
 
 Thanks!
-
-
-
-
- 
