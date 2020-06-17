@@ -3,7 +3,7 @@ layout: post
 title:  "London Loo Codes"
 date:   2020-05-02 12:00:00 +0000
 categories: projects
-tags: projects react javascript webapp python lambda node
+tags: projects react javascript python lambda node webapp
 ---
 [Live Project Link](https://loocode.co.uk) | 
 [Github Repo](https://github.com/gokhj/LondonLooCodes)
