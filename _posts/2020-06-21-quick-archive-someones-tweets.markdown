@@ -6,7 +6,7 @@ categories: projects
 tags: projects python telegram twitter
 ---
 
-I recently realised that if a tweet link is shared on Telegram, it will stay there forever (possibly) even though the account's long gone or the tweet is deleted.
+I recently discovered that if a tweet link is shared on Telegram, it will stay there forever (possibly) even though the account's long gone or the tweet is deleted.
 
 Since Twitter API allows to access a user's recent 3000 tweets, this gave me an idea to create a Telegram bot to archive other people's tweets.
 
