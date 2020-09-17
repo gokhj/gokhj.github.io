@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Your Spotify History and Recommendations: mySpotify.me"
+title:  "mySpotify.me: Your Spotify History and Recommendations"
 date:   2020-02-03 12:00:00 +0100
 categories: projects
 tags: projects react javascript webapp
@@ -10,7 +10,7 @@ tags: projects react javascript webapp
 
 This is a React.JS project where people can see their top songs & artists by logging in with their respective Spotify accounts. The user can also create playlists with their top tracks, including in the last month, over the previous 6 months and account lifetime.
 
-It's a serverless app, meaning there is no backend, and it doesn't store any information, initiated with create-react-app by Facebook.
+This app was initiated with create-react-app by Facebook.
 
 **To run:**
 ```

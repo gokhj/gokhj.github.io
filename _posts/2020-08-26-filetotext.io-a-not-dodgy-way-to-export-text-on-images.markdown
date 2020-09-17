@@ -42,7 +42,7 @@ The context of the email is essentially saying hi and how is she doing.
 
 I finished the email with this sentence: "I don't know where are you and what are you doing nowadays. I sincerely hope that you're happy and okay. Getting a response from you would literally warm my heart. Kind regards."
 
-Now I am wondering about why I finished this email so emotionally for a random person. Songs are always effected my mindset instantly and as far as I remember, I was listening to Green Gloves by The National.
+Now I am wondering about why I finished this email so emotionally for a random person. Songs are always effected my headspace instantly and as far as I remember, I was listening to Green Gloves by The National.
 
 <iframe src="https://open.spotify.com/embed/track/0EI0bOj38coiFWWAq0XlhF" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media" style="margin:auto;padding:auto;"></iframe>
 
@@ -58,7 +58,7 @@ Anyway, where were we? Yeah, OCR websites.
 
 They were incredibly dodgy. I didn't want to use them at all costs. So, I created a little node function to use the AWS SDK and build a bridge between me and the AWS Textract service. I was lucky because I knew what service to call, how to code stuff etc. And I asked myself, what about the people in the same boat? Can I build something easy to use for them? If I can, then why not?
 
-That was my motivation. Okay, we had a lot of flashbacks but I want to add one more thing before concluding this post. Here is a video on YouTube from Tom Scott.
+That was my motivation. I want to add one more thing before concluding this post.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BxV14h0kFs0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" style="margin:auto;padding:auto;" allowfullscreen></iframe>
 

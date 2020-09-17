@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Quickly Archive People's Tweets"
+title:  "Quickly Archive Public Twitter Accounts"
 date:   2020-06-21 12:00:00 +0100
 categories: projects
 tags: projects python telegram twitter

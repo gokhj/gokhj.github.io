@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Interactive Machine Learning Game: Sound Maze"
+title:  "Sound Maze: Interactive Machine Learning Game"
 date:   2019-11-10 12:00:00 +0000
 categories: projects
 tags: projects machine-learning node javascript

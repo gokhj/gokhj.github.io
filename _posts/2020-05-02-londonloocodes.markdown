@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "London Loo Codes"
+title:  "London Loo Codes: Get The Toilet Codes of Cafés in London"
 date:   2020-05-02 12:00:00 +0000
 categories: projects
 tags: projects react javascript python lambda node webapp
@@ -10,7 +10,23 @@ tags: projects react javascript python lambda node webapp
 
 Inspired by this [Twitter Account](https://twitter.com/ldnloocodes), I decided to develop something helpful for others. Initially, I used their [Google Spreadsheet Data](https://docs.google.com/spreadsheets/d/1NZc0IPV9SV_Wy9xoDckHbVDgJyeW2Str231Uz_e0Mg4/edit#gid=0), and converted that into JSON (well, in my case BSON) fields.
 
-This web app was developed as a serverless stack, though in the long run, it might be best to go with a dedicated API. However, this is a toy project, so I wanted to keep everything as simple as possible.
+This web app was developed with serverless stack, though in the long run, it might be best to go with a dedicated API. However, this is a toy project, so I wanted to keep everything as simple as possible.
+
+Besides, using serverless stack is not costing me a single penny. I store this application on Netlify and implemented the backend logic with AWS Lambda and API Gateway services.
+
+The stack of this project is React, Node, Python and MongoDB.
+
+This is the main page of the application, it is showing you the details of every toilet around the city. Comfy.
+
+![Main page](/assets/londonloocodes/main.png)
+
+A user can contribute since the data is open-sourced.
+
+![Contribute](/assets/londonloocodes/contribute.png)
+
+The map view of the current codes across the city.
+
+![Map View](/assets/londonloocodes/map.png)
 
 Below you can find the explanations of the folders and what they do.
 

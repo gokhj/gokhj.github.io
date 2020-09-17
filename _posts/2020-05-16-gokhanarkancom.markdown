@@ -14,22 +14,7 @@ This is my personal landing page built with Vue.js and hosted with Netlify. The 
 
 I will style this page similar to Edward Tufte's handouts. [Check here](https://edwardtufte.github.io/tufte-css/) for more.
 
----
+![Page](/assets/personalwebsite/page.png)
 
-### *Netlify*
+I know I am not really talented with picking a colour palette.
 
-build command: ```npm run build```
-
-publish directory: ```dist```
-
-deploy log visibility: ```logs are public```
-
-builds: ```active```
-
----
-
-### *Development*
-
-build: ```npm run serve```
-
----
