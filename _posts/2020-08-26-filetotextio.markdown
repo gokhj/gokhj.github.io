@@ -22,7 +22,7 @@ This was all when it started; I searched “free OCR service” on Google; the r
 
 ![Save Walter White](/assets/filetotextio/saveww.png)
 
-Speaking of Save Walter White website, this instance also reminded me of Akrep Nalan's personal website. Akrep Nalan was used to be a Turkish TV celebrity who played a teacher role in a wildly popular TV series called Hayat Bilgisi. She was also a singer. Before that, was an accountant who has interested in acting. One day she won the jackpot in horse racing, so she followed her dreams afterwards since she does not need to worry about her finances anymore.
+Speaking of Save Walter White website, this instance also reminded me of Akrep Nalan's personal website. Akrep Nalan was used to be a Turkish TV celebrity who played a teacher role in a wildly popular TV series called Hayat Bilgisi. She was also a singer. Before then she was actually working as an accountant for a small company, but with her luck one day she won the jackpot in horse racing. Hence, she followed her dreams since she does not need to worry about her finances anymore.
 
 According to a myth, before even the internet was a thing, she sold a flat in Istanbul and build her personal website. Apparently, people can get inspired and see the importance of the internet in their lives. I am talking about circa 2000.
 
